@@ -1,3 +1,30 @@
+.body{
+	background-color: rgba(0, 0, 0, 0.726);
+}
+.botonVerNoticias{
+	background-color: rgb(8, 58, 58);
+}
+.tituloParrafoCard{
+	background-color: gray;
+}
+
+.tituloCard{
+	background-color: #000;
+}
+.tituloDeCard{
+	color: #fff;
+}
+.barraNvegacion{
+	background-color: rgba(255, 255, 255, 0.726);
+}
+.paginacion{
+	background-color: #000;
+	color: white;
+}
+.carddetitulos{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
 /* INGRESO */
 .ingreso__card{
     background-color: rgba(0, 0, 255, 0.267);
